@@ -43,3 +43,5 @@ README.md: Project documentation
     . 13,721 participants were missing latitude/longitude information. this is left as missing to preserve data integrity.
     . No missing survey responses remain after cleaning.
 
+###Due to GitHub's 100 MB file size limit, only a sample of the cleaned dataset (1,000 rows) is uploaded here as `data-final-sample.csv`.  
+The full cleaned dataset (~1M rows) is available upon request or via the following link: https://drive.google.com/file/d/1r2OjsSyS2uibgCkQbckNm66Lf0JzluTU/view?usp=sharing .
